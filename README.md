@@ -21,7 +21,6 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /></a>
 <a href="https://plotly.com/" target="_blank"><img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank"><img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VScode" title="VScode" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img align="left" alt="Seaborn" title="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /></a>
 
