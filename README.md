@@ -1,5 +1,5 @@
 <h1><center><font size=10>Data Science and Business Analytics</center></font><p
-<center>Project 4 - Supervised Learning - Classification: Cancellations Predition Model for INN Hotels</center></h1><p
+<center>Project 4 - Supervised Learning - Classification: Cancellations Prediction Model for INN Hotels</center></h1><p
 
 ---
 
